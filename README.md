@@ -1,4 +1,4 @@
-# Capstone Project – The Battle of Neighborhoods
+# The Battle of Neighborhoods
 Finding a good location to open an Italian restaurant in Berlin, Germany
 
 Final Assignment for IBM Data Science Coursera Specialization
