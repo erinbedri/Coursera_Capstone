@@ -2,9 +2,10 @@
 Finding a good location to open an Italian restaurant in Berlin, Germany
 
 Final Assignment for IBM Data Science Coursera Specialization
+
 18.05.2020
 
-<!-- GETTING STARTED -->
+<!-- INTRODUCTION -->
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
